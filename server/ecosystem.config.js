@@ -1,4 +1,4 @@
-MediaSourceHandle.export ={
+module.export ={
     apps: [
         {
             name: "project-management",
